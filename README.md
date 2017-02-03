@@ -1,4 +1,4 @@
-## useful-cpp-resources
+## Useful C++ resources
 #### Performance
 + <a href="http://www.boost.org/" target="_blank">boost </a> - portable C++ source libraries+ <a href="https://libcinder.org/" target="_blank">Cinder </a> - library for professional-quality creative coding in C++
 
