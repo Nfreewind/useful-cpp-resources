@@ -3,6 +3,8 @@
 #### Performance
 + <a href="http://www.boost.org/" target="_blank">boost </a> - portable C++ source libraries
 + <a href="https://libcinder.org/" target="_blank">Cinder </a> - library for professional-quality creative coding in C++
++ <a href="http://boostcvpr.sourceforge.net/" target="_blank">Boost CVPR </a> - Boost for Computer Vision
+
 
 #### Scientific
 + <a href="http://arma.sourceforge.net/" target="_blank"> Armadillo  </a> - linear algebra library
